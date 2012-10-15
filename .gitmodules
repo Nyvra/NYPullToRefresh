@@ -1,0 +1,3 @@
+[submodule "NYPullToRefresh/Submodules/SVPullToRefresh"]
+	path = NYPullToRefresh/Submodules/SVPullToRefresh
+	url = https://github.com/samvermette/SVPullToRefresh.git
